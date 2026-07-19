@@ -1,0 +1,19 @@
+# Compiled executable
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.tmp
+
+# Build folders
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
